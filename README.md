@@ -28,7 +28,7 @@ This application challenges users with 500 football trivia questions across 3 di
 
 ## 📷 Screenshots
 
-### Dashboard
+### Homepage
 ![Homepage](https://github.com/Joras-Latihd/Football_Quiz_App_Project/blob/45b59b1958a58fdec86eba9c675642d9813b761a/Homepage.png)
 
 ---
