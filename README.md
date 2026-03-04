@@ -2,7 +2,7 @@
 A feature-rich and responsive **Football Quiz App** built by **SAROJ DHITAL** using **React.js** and deployed on Vercel.
 
 🔗 Live Demo:  
-https://football-quiz-app-project.vercel.app/
+https://saroj-football-quiz.vercel.app/
 
 This application challenges users with 500 football trivia questions across 3 difficulty modes, complete with a ranking system, lifelines, leaderboard, and a stunning Stadium Nights dark UI.
 
