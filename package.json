@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "prebuild": "chmod +x node_modules/.bin/react-scripts || true"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
