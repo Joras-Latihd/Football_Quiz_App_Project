@@ -4,7 +4,7 @@ A feature-rich and responsive **Football Quiz App** built by **SAROJ DHITAL** us
 🔗 Live Demo:  
 https://saroj-football-quiz.vercel.app/
 
-This application challenges users with 500 football trivia questions across 3 difficulty modes, complete with a ranking system, lifelines, leaderboard, and a stunning Stadium Nights dark UI.
+This application challenges users with football trivia questions across 3 difficulty modes, complete with a ranking system, lifelines and leaderboard.
 
 ---
 
